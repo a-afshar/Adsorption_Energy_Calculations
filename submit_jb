@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --time=43:00:00
+#SBATCH --mem=50GB
+#SBATCH --nodes=3
+#SBATCH --tasks-per-node=24
+#SBATCH -J rlx_pd_111_slab
+
+# Specify an output file
+#SBATCH -o MyMPIJob-%j.out
+#SBATCH -e MyMPIJob-%j.out
+
+./run.sh
