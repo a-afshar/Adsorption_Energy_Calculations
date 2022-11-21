@@ -1,0 +1,9 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 6307135
+##  Job Name : rlx_cupd_cu_top
+##  Nodelist : node[1831-1832]
+##      CPUs : 64
+##  Mem/Node : 40960 MB
+## Directory : /gpfs/data/brubenst/aafshar4/cupd_structure_sun_group/surface_relaxation/scell_3x2x2_relaxation_Cu_top
+##   Job Started : Mon Oct 10 16:38:45 EDT 2022
+###############################################################################
