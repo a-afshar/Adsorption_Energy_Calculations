@@ -1,9 +1,0 @@
-## SLURM PROLOG ###############################################################
-##    Job ID : 6082515
-##  Job Name : rlx_pd_111_slab
-##  Nodelist : node[1335,1340,1343]
-##      CPUs : 72
-##  Mem/Node : 51200 MB
-## Directory : /gpfs/data/brubenst/aafshar4/slabs/pd/new_modeled_111/supercell_72_atms_scaled_param
-##   Job Started : Sat Sep  3 19:54:48 EDT 2022
-###############################################################################
